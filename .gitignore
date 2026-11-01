@@ -1,0 +1,11 @@
+*.o
+*.exe
+programme
+*.tmp
+*.log
+.env
+config.local
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
