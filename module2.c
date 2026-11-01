@@ -31,15 +31,6 @@ int analyserSecuriteMotDePasse(const char *motDePasse)
     score += minuscule;
     score += chiffre;
     score += caractereSpecial;
-
-    printf("\n--- Analyse de securite ---\n");
-
-    if (score <= 2)
-        printf("Mot de passe faible.\n");
-    else if (score <= 4)
-        printf("Mot de passe moyen.\n");
-    else
-        printf("Mot de passe fort.\n");
-
+    
     return score;
 }
