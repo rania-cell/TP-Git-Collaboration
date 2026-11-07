@@ -6,3 +6,6 @@ Travail realise par l'etudiante B.
 ### G.1 - Gestion des commits
 
 Creation et modification de trois commits successifs.
+#### Objectif
+
+Comprendre les differentes methodes d'annulation des commits.
