@@ -12,7 +12,9 @@ int main(void)
     char motDePasse[100];
     int score;
 
+    printf("Application de securite informatique\n");
     printf("Application developpee par A\n");
+    printf("Application developpee par B\n");
 
     // Appel du module 1
     saisirMotDePasse(motDePasse);
