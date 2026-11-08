@@ -4,7 +4,6 @@ Amelioration proposee par l'etudiant C via un fork
 
 Ligne test 1
 Ligne test 2
-Ligne test 3
 
 ## Partie G - Manipulations avancees
 
